@@ -10,7 +10,7 @@
 
 [![Open Custom GPT](https://img.shields.io/badge/🚀%20Open%20Custom%20GPT-412991?style=for-the-badge)](https://chatgpt.com/g/g-6ab32eeab8c88191915986ea8efad18d-ai-job-application-assistant)
 [![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Loom%20Demo-625DF5?style=for-the-badge)](https://www.loom.com/share/d52a3384f1f9461b8d279d3664e82c06)
-[![Download PDF](https://img.shields.io/badge/📄%20Download%20Use%20Case%20PDF-CB3837?style=for-the-badge)](./AI_Job_Application_Assistant_Use_Case.pdf)
+[![Download PDF](https://img.shields.io/badge/📄%20Download%20Use%20Case%20PDF-CB3837?style=for-the-badge)](./docs/AI_Job_Application_Assistant_Use_Case.pdf)
 [![View Documentation](https://img.shields.io/badge/📚%20View%20Documentation-0969DA?style=for-the-badge)](./docs/assessment-overview.md)
 
 </div>
@@ -130,7 +130,7 @@ custom-gpt-use-case/
 - 📄 [Use Case Document](./use_case_document.md)
 - 📘 [Assessment Overview](./docs/assessment-overview.md)
 - 🎥 [Demo Guide](./docs/demo-guide.md)
-- 📑 [PDF Submission Copy](./AI_Job_Application_Assistant_Use_Case.pdf)
+- 📑 [PDF Submission Copy](./docs/AI_Job_Application_Assistant_Use_Case.pdf)
 
 ---
 
@@ -148,7 +148,7 @@ custom-gpt-use-case/
 
 ### 📄 Assessment PDF
 
-[![Open PDF](https://img.shields.io/badge/Open%20PDF%20Submission-CB3837?style=for-the-badge)](./AI_Job_Application_Assistant_Use_Case.pdf)
+[![Open PDF](https://img.shields.io/badge/Open%20PDF%20Submission-CB3837?style=for-the-badge)](./docs/AI_Job_Application_Assistant_Use_Case.pdf)
 
 ---
 
@@ -176,7 +176,7 @@ custom-gpt-use-case/
 |---|---|
 | 🤖 Custom GPT | [**Launch GPT →**](https://chatgpt.com/g/g-6ab32eeab8c88191915986ea8efad18d-ai-job-application-assistant) |
 | 🎥 Loom Demo | [**Watch Demo →**](https://www.loom.com/share/d52a3384f1f9461b8d279d3664e82c06) |
-| 📑 PDF | [**Open PDF →**](./AI_Job_Application_Assistant_Use_Case.pdf) |
+| 📑 PDF | [**Open PDF →**](./docs/AI_Job_Application_Assistant_Use_Case.pdf) |
 | 📄 Use Case | [**Read Document →**](./use_case_document.md) |
 | 📘 Assessment Docs | [**Open Docs →**](./docs/assessment-overview.md) |
 
@@ -196,6 +196,6 @@ custom-gpt-use-case/
 
 ### ⭐ Built as a practical Custom GPT assessment project
 
-**[🚀 Launch GPT](https://chatgpt.com/g/g-6ab32eeab8c88191915986ea8efad18d-ai-job-application-assistant) · [🎥 Watch Demo](https://www.loom.com/share/d52a3384f1f9461b8d279d3664e82c06) · [📄 View PDF](./AI_Job_Application_Assistant_Use_Case.pdf)**
+**[🚀 Launch GPT](https://chatgpt.com/g/g-6ab32eeab8c88191915986ea8efad18d-ai-job-application-assistant) · [🎥 Watch Demo](https://www.loom.com/share/d52a3384f1f9461b8d279d3664e82c06) · [📄 View PDF](./docs/AI_Job_Application_Assistant_Use_Case.pdf)**
 
 </div>
